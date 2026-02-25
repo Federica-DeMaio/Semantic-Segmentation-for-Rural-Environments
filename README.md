@@ -59,6 +59,3 @@ After an iterative optimization process (including the use of adaptive scheduler
 2. **Training:** Execute the notebook cells to start the training loop.
 3. **Evaluation:** Use the final module to generate the confusion matrix and visualize comparisons between Ground Truth and Predictions.
 
-
-
-**Would you like me to add a "Installation" section with the specific `pip install` commands based on your code?**
